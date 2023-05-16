@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Miguelap-486/Miguelap-486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <h1>!Hola¡Soy miguel</h1>
+<p>
+  Bienvenido/a a mi repositorio. Soy un apasionado/a del desarrollo web en constante crecimiento y aprendizaje. Este proyecto es una muestra de mi trabajo y dedicación en el mundo del desarrollo web.
+</p>
