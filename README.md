@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>👋🏻👋🏻!Hola¡Soy miguel.👋🏻👋🏻</h1>
+<h1>👋🏻👋🏻!Hola¡ Soy Miguel.👋🏻👋🏻</h1>
 <p>
   Bienvenido/a a mi repositorio. Soy un apasionado/a del desarrollo web en constante crecimiento y aprendizaje. Este proyecto es una muestra de mi trabajo y dedicación en el mundo del desarrollo web.
 </p>
